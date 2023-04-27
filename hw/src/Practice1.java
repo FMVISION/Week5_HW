@@ -6,9 +6,11 @@ public class Practice1 {
         int a = 10;
         int b = 20;
         int sum = a+b;
+        int c = 30;
 
 
-        System.out.println("c");
+        System.out.println("30");
+        System.out.println("sum");
 
     }
 }
